@@ -1,7 +1,7 @@
 Steam Offline Shell Script
 ==========================
 
-This is a little shell script for starting steam in offline mode.  
+This is a shell script for starting steam in offline mode.  
 
 The script is based on the responses and code on:
 
